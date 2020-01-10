@@ -93,5 +93,5 @@ public class ImageSelectActivity extends AppCompatActivity {
 //            Bitmap myBitmap = BitmapFactory.decodeFile(imagefile.getAbsolutePath());
 //            ibImage.setImageBitmap(myBitmap);
 //        }
-//    }9818575226
+//    }
 }
